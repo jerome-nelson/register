@@ -1,0 +1,12 @@
+{
+    "description": "Jerome Nelson Personal Site",
+    "repo": "https://github.com/jerome-nelson",
+    "owner": {
+      "username": "jerome-nelson",
+      "email": "webmaster@jerome-nelson.dev"
+    },
+    "record": {
+      "CNAME": "jerome-nelson.github.io"
+    }
+  }
+  
